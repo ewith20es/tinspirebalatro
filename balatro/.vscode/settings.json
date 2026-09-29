@@ -1,0 +1,11 @@
+{
+  "files.eol": "\n",
+  "C_Cpp.default.compilerPath": "C:\\Users\\hankw\\Documents\\Codex\\ti-nspire-dev\\Ndless\\ndless-sdk\\toolchain\\install\\bin\\arm-none-eabi-g++.exe",
+  "C_Cpp.default.compilerArgs": ["-mcpu=arm926ej-s", "-marm"],
+  "C_Cpp.default.includePath": ["C:/Users/hankw/Documents/Codex/ti-nspire-dev/Ndless/ndless-sdk/include/**", "${workspaceFolder}"],
+  "C_Cpp.default.cppStandard": "c++17",
+  "C_Cpp.default.intelliSenseMode": "gcc-arm",
+  "terminal.integrated.profiles.windows": {"TI-Nspire Cygwin": {"path": "C:\\Users\\hankw\\Documents\\Codex\\ti-nspire-dev\\cygwin64\\bin\\bash.exe", "args": ["--login", "-i"]}},
+  "terminal.integrated.defaultProfile.windows": "TI-Nspire Cygwin",
+  "terminal.integrated.env.windows": {"CHERE_INVOKING": "1"}
+}

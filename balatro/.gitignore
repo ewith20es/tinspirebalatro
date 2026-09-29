@@ -1,0 +1,6 @@
+*.o
+*.d
+*.elf
+*.zehn
+balatro-save.tns*
+build/
