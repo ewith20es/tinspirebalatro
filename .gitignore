@@ -1,0 +1,10 @@
+*.o
+*.d
+*.elf
+*.zehn
+balatro-save.tns*
+build/
+
+# Local duplicate checkouts; the project lives at this repository's root.
+/balatro/
+/tinspirebalatro/
