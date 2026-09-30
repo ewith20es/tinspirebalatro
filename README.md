@@ -1,2 +1,2 @@
 # REQUIRES NDLESS AND TOUCHPAD
-upload the .tns file from the release page and but it on your calculator.
+Upload the .tns file from the release page and put it on your calculator.
